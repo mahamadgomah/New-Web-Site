@@ -1,0 +1,28 @@
+body{margin: 0; text-align: center;
+font-family: 'Merriweather', serif;
+font-size: 20px;
+}
+.top-cloud{position:absolute; right: 300px;top: 50px;}
+h1 {margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 90px;
+color: #66BFBF;
+}
+h2{font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+color: #66BFBF;
+font-weight: normal;
+}
+h3{font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+.top-container{background-color: #E4F9F5;position: relative;padding-top: 100px;}
+.middle-container{}
+.bottom-container{}
+.bottom-cloud{position: absolute;left: 300px;bottom: 300px;}
+a{color: #11999E;}
+.skill-row{width: 75%; margin: 100px auto 100px auto;
+text-align: left; line-height: 2;}
+.img1 {width: 25%;float: left;padding-right: 30px;border-radius: 50%;}
+.img2 {width: 25%;float: right;padding-left: 30px;border-radius: 50%;}
+.My-Image {border-radius: 50%; width: 150px; padding: 10px;}
